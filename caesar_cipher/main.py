@@ -3,7 +3,6 @@ import caesar_cipher
 end=text=direction=()
 shift=0
 
-
 while end!="y":
 
     #"menu"
